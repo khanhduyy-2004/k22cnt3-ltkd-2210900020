@@ -1,0 +1,59 @@
+﻿@model IEnumerable<K22CNTT3_LeTranKhanhDuy_2210900020.Models.NguoiDung>
+
+@{
+    ViewBag.Title = "Các ứng dụng Web";
+    Layout = "~/Views/Shared/_LtkdLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @*Html.ActionLink("Create New", "Create")*@
+</p>
+<a href="/NguoiDungs/Create" class="btn btn-primary my-3" >Thêm mới</a>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenDangNhap)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MatKhau)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VaiTro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayTao)
+        </th>
+        <th>Chức năng</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenDangNhap)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MatKhau)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VaiTro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayTao)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaNguoiDung }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MaNguoiDung }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MaNguoiDung })
+        </td>
+    </tr>
+}
+
+</table>

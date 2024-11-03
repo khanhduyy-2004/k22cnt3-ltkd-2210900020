@@ -1,0 +1,36 @@
+﻿@model IEnumerable<K22CNTT3_LeTranKhanhDuy_2210900020.Models.The>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LtkdLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @*Html.ActionLink("Create New", "Create")*@
+</p>
+<a href="/Thes/Create" class="btn btn-primary my-3">Thêm mới</a>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenThe)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenThe)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.MaThe }) |
+                @Html.ActionLink("Details", "Details", new { id = item.MaThe }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.MaThe })
+            </td>
+        </tr>
+    }
+
+</table>

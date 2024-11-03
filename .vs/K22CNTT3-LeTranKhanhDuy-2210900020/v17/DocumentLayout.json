@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\controllers\\ltkdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\controllers\\ltkdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\controllers\\nguoidungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\controllers\\nguoidungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\baiviets\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\baiviets\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\shared\\_ltkdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\shared\\_ltkdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\nguoidungs\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\nguoidungs\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\binhluans\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\binhluans\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\thes\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\thes\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\danhmucs\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\danhmucs\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\ltkdhome\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\ltkdhome\\ltkdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\controllers\\thescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\controllers\\thescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\controllers\\danhmucscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\controllers\\danhmucscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\controllers\\binhluanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\controllers\\binhluanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\controllers\\baivietscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\controllers\\baivietscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\nguoidungs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\nguoidungs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\ltkdhome\\ltkdcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\ltkdhome\\ltkdcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\views\\ltkdhome\\ltkdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\views\\ltkdhome\\ltkdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|c:\\users\\renan\\source\\repos\\k22cntt3-letrankhanhduy-2210900020\\k22cntt3-letrankhanhduy-2210900020\\models\\ltkd1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{196CAEC2-AAE3-4425-8AA4-B8583C8F1405}|K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020.csproj|solutionrelative:k22cntt3-letrankhanhduy-2210900020\\models\\ltkd1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NguoiDungsController.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\NguoiDungsController.cs",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\NguoiDungsController.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\NguoiDungsController.cs",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\NguoiDungsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:01:50.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LtkdIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\NguoiDungs\\LtkdIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\NguoiDungs\\LtkdIndex.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\NguoiDungs\\LtkdIndex.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\NguoiDungs\\LtkdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:07:15.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:44:40.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LtkdLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\Shared\\_LtkdLayout.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\Shared\\_LtkdLayout.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\Shared\\_LtkdLayout.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\Shared\\_LtkdLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T10:10:29.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LtkdHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\LtkdHomeController.cs",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\LtkdHomeController.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\LtkdHomeController.cs",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\LtkdHomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:12:07.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LtkdIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\BaiViets\\LtkdIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\BaiViets\\LtkdIndex.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\BaiViets\\LtkdIndex.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\BaiViets\\LtkdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:42:59.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LtkdIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\BinhLuans\\LtkdIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\BinhLuans\\LtkdIndex.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\BinhLuans\\LtkdIndex.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\BinhLuans\\LtkdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:42:31.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LtkdIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdIndex.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdIndex.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:34:37.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LtkdIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\Thes\\LtkdIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\Thes\\LtkdIndex.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\Thes\\LtkdIndex.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\Thes\\LtkdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:44:33.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BinhLuansController.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\BinhLuansController.cs",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\BinhLuansController.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\BinhLuansController.cs",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\BinhLuansController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:37:53.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LtkdIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\DanhMucs\\LtkdIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\DanhMucs\\LtkdIndex.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\DanhMucs\\LtkdIndex.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\DanhMucs\\LtkdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:41:39.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaiVietsController.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\BaiVietsController.cs",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\BaiVietsController.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\BaiVietsController.cs",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\BaiVietsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:38:21.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DanhMucsController.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\DanhMucsController.cs",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\DanhMucsController.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\DanhMucsController.cs",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\DanhMucsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:38:35.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThesController.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\ThesController.cs",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\ThesController.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\ThesController.cs",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Controllers\\ThesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:38:48.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LtkdContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdContact.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdContact.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdContact.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:34:28.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:26:52.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:54:05.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\NguoiDungs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\NguoiDungs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\NguoiDungs\\Delete.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\NguoiDungs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:21:37.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LtkdAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdAbout.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdAbout.cshtml",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdAbout.cshtml",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Views\\LtkdHome\\LtkdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:33:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ltkd1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Models\\Ltkd1.edmx",
+              "RelativeDocumentMoniker": "K22CNTT3-LeTranKhanhDuy-2210900020\\Models\\Ltkd1.edmx",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\K22CNTT3-LeTranKhanhDuy-2210900020\\K22CNTT3-LeTranKhanhDuy-2210900020\\Models\\Ltkd1.edmx [Diagram1]",
+              "RelativeToolTip": "K22CNTT3-LeTranKhanhDuy-2210900020\\Models\\Ltkd1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-03T05:56:07.72Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
